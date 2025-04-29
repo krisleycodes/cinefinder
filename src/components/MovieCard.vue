@@ -29,7 +29,7 @@
 <script lang="ts">
 import { defineComponent, computed } from 'vue';
 import api from '../services/api';
-import type { Movie } from '../types/movie';
+import type { Movie } from '../types/movies';
 
 export default defineComponent({
   props: {

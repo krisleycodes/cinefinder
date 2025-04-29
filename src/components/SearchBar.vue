@@ -53,7 +53,7 @@
 <script lang="ts">
 import { defineComponent, ref, onMounted } from 'vue';
 import api from '../services/api';
-import type { Genre } from '../types/movie';
+import type { Genre } from '../types/movies';
 
 export default defineComponent({
   emits: ['search'],

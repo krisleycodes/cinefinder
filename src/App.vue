@@ -85,7 +85,7 @@ import MovieCard from './components/MovieCard.vue';
 import SearchBar from './components/SearchBar.vue';
 import Pagination from './components/Pagination.vue';
 import api from './services/api';
-import type { Movie } from './types/movie';
+import type { Movie } from './types/movies';
 
 export default defineComponent({
   components: {
