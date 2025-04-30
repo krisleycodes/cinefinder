@@ -2,6 +2,8 @@
 
 A lightweight Vue.js app for searching movies by name and filtering by genre, using the TMDB API.
 
+Live Demo: https://cinefinder-pi.vercel.app/
+
 ## ✨ Features
 - Search movies by title
 - Filter results by genre
